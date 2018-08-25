@@ -1,0 +1,2 @@
+# Ryuwave
+Discord BOT
